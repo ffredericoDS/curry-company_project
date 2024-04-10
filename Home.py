@@ -36,12 +36,7 @@ st.markdown(
 
     ## ASK FOR HELP
     Você pode entrar em contato com o nosso time de Data Science no Discord:
-    - @meigarom
+    - @Frederico Pereira
     """
 )
 
-
-import os
-
-current_directory = os.getcwd()
-st.write(f"Current Directory: {current_directory}")
